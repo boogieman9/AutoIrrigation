@@ -2,7 +2,7 @@
 A simple programmable irrigator based on the ESP32
 
 Version 101 
-  -doesnt work, needs fixes
+  -doesnt work needs fixes, but its there if you want it
 
 Version 110 
   -has all the fixes for 101 plus wifi overrides
