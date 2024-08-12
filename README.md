@@ -9,4 +9,4 @@ Version 110
   -simple programs work but you cant change them yet
   
 
-~Upcoming implementation of HTML UI for changing time and program
+~Upcoming implementation of HTML+JS UI for changing time and program
